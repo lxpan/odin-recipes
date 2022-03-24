@@ -1,0 +1,25 @@
+.background {
+    background-color: aliceblue;
+}
+
+.main-heading {
+    color: burlywood;
+    background-color: black;
+    text-align: center;
+}
+
+.recipe-list {
+    text-align: center;
+}
+
+.list-item {
+    padding: 10px;
+    list-style-type: none;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 32px;
+    color: brown;
+    /*Left align contents of list*/
+    text-align: left;
+}
